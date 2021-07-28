@@ -22,11 +22,11 @@ header > h1 {
 .score-board {
     margin: 20px auto;
     padding: 15px 20px;
-    border: 3px solid white;
+    border: 3px solid rgb(233, 108, 212);
     border-radius: 4px;
     text-align: center;
     width: 200px;
-    color: white;
+    color: rgb(241, 13, 51);
     font-size: 46px;
     font-family: Asap, sans-serif;
     position: relative;
